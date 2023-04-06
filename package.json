@@ -1,0 +1,6 @@
+{
+  "devDependencies": {
+    "conventional-changelog-angular": "^5.0.13",
+    "conventional-changelog-cli": "^2.2.2"
+  }
+}
